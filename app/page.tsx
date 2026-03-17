@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <main>
-        <Link href="/about">
-          <Button>About Us</Button>
+        <Link href="/movies">
+          <Button>Movies</Button>
         </Link>
       </main>
     </div>
